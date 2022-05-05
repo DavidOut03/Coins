@@ -1,0 +1,14 @@
+name: Coins
+main: me.coins.Core.Main
+version: 1.0
+author: Snapje
+description: A economy plugin made by Snapje.
+commands:
+  Economy:
+    aliases: [eco]
+    description: Manage the economy.
+  Pay:
+    description: Pay someone money.
+  Balance:
+    aliases: [bal]
+    description: Get someones balance.

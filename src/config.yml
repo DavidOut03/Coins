@@ -1,0 +1,5 @@
+Settings:
+  economy-enabled: true
+  prefix: '&8(&eEconomy&8)'
+  starter_money: 200.0
+  payment_unit: '€'
